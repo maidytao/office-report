@@ -1,0 +1,7 @@
+interface:
+  display_name: "Office Report"
+  short_description: "用于中文正式办公材料写作、整理与润色"
+  default_prompt: "Use $office-report to turn my Chinese office notes into a formal, steady, and clear document."
+
+policy:
+  allow_implicit_invocation: true
